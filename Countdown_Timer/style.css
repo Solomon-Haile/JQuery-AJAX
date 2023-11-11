@@ -1,0 +1,21 @@
+/* custom style sheet */
+
+body {
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+.btn {
+    background-color: lightblue;
+    height: 90px;
+    width: 90px;
+    padding: 13px 18px;
+	border-radius: 60px;
+	font-size: 25px;
+}
+
+.lead {
+    font-size: 90px; 
+}
+
